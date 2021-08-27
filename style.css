@@ -1,0 +1,99 @@
+#head{
+    background:rgb(161, 162, 250);
+    font-size:30px !important;
+}
+
+.cam_div{
+    background:slategray;
+    padding:10px;
+    margin-top:15px;
+    border:3px solid white;
+}
+
+#camera, #outputt{
+    height:300px;
+    width:300px;
+    border:solid white 2px;
+    box-shadow:5px 5px 18px white;
+}
+
+.cam_div label{
+    background:white;
+    width:310px;
+    padding:10px;
+    margin-bottom:0px;
+    box-shadow:5px 5px 18px white;
+    font-size:30px;
+}
+
+.cam_div button{
+    width:300px;
+    font-size:20px;
+    border:solid white 1px;
+    box-shadow: 5px 5px 18px white;
+}
+
+body{
+    background:aliceblue;
+}
+
+#output, #output_2{
+    background:lightblue;
+    border:solid black 2px;
+}
+
+.output_cam{
+    background:slategray;
+    padding:10px;
+    margin-top:15px;
+    border:3px solid white;
+}
+
+.output_cam label{
+    background:white;
+    width:310px;
+    padding:10px;
+    margin-bottom:0px;
+    box-shadow:5px 5px 18px white;
+    font-size:30px;
+}
+
+.output_cam button{
+    width:300px;
+    font-size:20px;
+    border:solid white 1px;
+    box-shadow: 5px 5px 18px white;
+}
+
+
+.img{
+    height:250px;
+    width:250px;
+    border-radius:20px;
+    
+}
+
+body{
+    background:antiquewhite;
+}
+
+.div{
+    padding:20px;
+    background:slategray;
+    color:white;
+    padding-bottom:50px;
+    border-radius:100px;
+    margin:20px;
+}
+
+#summary{
+    background:turquoise;
+    border-radius:50px;
+    margin:20px;
+    padding:30px;
+}
+
+.red{
+    color:red;
+}
+
